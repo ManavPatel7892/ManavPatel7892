@@ -14,7 +14,7 @@ I'm passionate about continuous learning and developing my technical and profess
 
 ## 🙋‍♂️ About Me
 
-- 🎓 BCA Graduate from Gujarat Technological University.
+- 🎓 BCA Graduate from Narshi Mehta University.
 - 🤖 Interested in Artificial Intelligence and AI-driven technologies.
 - 💼 Former Trainee Project Coordinator cum Business Analyst at Site4People.com.
 - 🌐 Gaining experience in HTML and frontend development.
