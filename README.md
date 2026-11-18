@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there, I'm Manav Patel 👋
 
-<!--
-**ManavPatel7892/ManavPatel7892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Enthusiast | 📊 Business Analyst | 🚀 Trainee Project Coordinator
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Bachelor of Computer Applications (BCA) graduate interested in Artificial Intelligence, software development, business analysis, and emerging technologies.
+
+I enjoy exploring AI-driven content creation, software testing, frontend development, and project coordination.
+
+I'm passionate about continuous learning and developing my technical and professional skills.
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 BCA Graduate from Gujarat Technological University.
+- 🤖 Interested in Artificial Intelligence and AI-driven technologies.
+- 💼 Former Trainee Project Coordinator cum Business Analyst at Site4People.com.
+- 🌐 Gaining experience in HTML and frontend development.
+- 🧪 Experienced in software testing and feature validation.
+- 🎬 Interested in AI-driven video content creation and educational resources.
+- 📊 Familiar with project coordination, business analysis, and documentation.
+- 🤝 Enjoy working with cross-functional teams and solving problems.
+
+---
+
+## 💻 Technical Skills
+
+- HTML
+- CSS
+- JavaScript
+- Software Testing
+- Artificial Intelligence Tools
+- Business Analysis
+- Project Coordination
+- Documentation
+
+---
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Web Development
+- Software Testing & Quality Assurance
+- AI Content Creation
+- Business Analysis
+- Project Management
+
+---
+
+## 📈 GitHub Stats
+
+
+
+
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@ManavPatel7892](https://github.com/ManavPatel7892)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
