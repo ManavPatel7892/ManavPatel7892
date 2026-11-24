@@ -1,10 +1,10 @@
 # Hi there, I'm Manav Patel 👋
 
-### 🤖 AI Enthusiast | 📊 Business Analyst | 🚀 Trainee Project Coordinator
+### 🤖 AI/ML Enthusiast | 🐍 Python Developer | 🌐 Web Developer | 🚀 Aspiring Software Developer
 
 Welcome to my GitHub profile!
 
-I'm a Bachelor of Computer Applications (BCA) graduate interested in Artificial Intelligence, software development, business analysis, and emerging technologies.
+I'm a interested in Artificial Intelligence, AI/ML Enthusiast, software development, Web Developer, Python Developer and emerging technologies.
 
 I enjoy exploring AI-driven content creation, software testing, frontend development, and project coordination.
 
@@ -16,7 +16,6 @@ I'm passionate about continuous learning and developing my technical and profess
 
 - 🎓 Currently pursuing a Bachelor of Computer Applications (BCA) at Narshi Mehta University.
 - 🤖 Interested in Artificial Intelligence and AI-driven technologies.
-- 💼 Former Trainee Project Coordinator cum Business Analyst at Site4People.com.
 - 🌐 Gaining experience in HTML and frontend development.
 - 🧪 Experienced in software testing and feature validation.
 - 🎬 Interested in AI-driven video content creation and educational resources.
@@ -30,12 +29,10 @@ I'm passionate about continuous learning and developing my technical and profess
 - HTML
 - CSS
 - JavaScript
-- Software Testing
+- jQuery
+- python
 - Artificial Intelligence Tools
-- Business Analysis
 - Project Coordination
-- Documentation
-
 ---
 
 ## 🎯 Areas of Interest
